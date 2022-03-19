@@ -2,15 +2,10 @@
 
 > Open Source Templates
 
-## Getting started
+## What It Is
 
-```sh
-mkdir openbar
-cd openbar
+## Features
 
-repo init -u https://github.com/openbar/yocto-manifest.git
-repo sync
+## License
 
-make poky_defconfig
-make
-```
+## Credits
