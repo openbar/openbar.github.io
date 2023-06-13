@@ -1,10 +1,27 @@
 # OpenBar
 
-> Open Source Templates
+> Don't worry, you'll have time for a drink!
 
 ## What It Is
 
+The [OpenBar build system][openbar] is used to level up other project
+usability, reproducibility and sustainability.
+
+It was designed to wrap Yocto projects, but it turns out that it can be
+extended to any other project.
+
+The [OpenBar wizard][wizard] allows such projects to be set up in no time
+at all.
+
 ## Features
+
+* Simple `Makefile` interface with defconfig files.
+
+* Containerized project environment using `docker`.
+
+* Low host requirements.
+
+* Online setup wizard.
 
 ## License
 
